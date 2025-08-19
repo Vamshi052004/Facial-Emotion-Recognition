@@ -6,7 +6,7 @@
 ![Language Count](https://img.shields.io/github/languages/count/Vamshi052004/Facial-Emotion-Recognition)
 
 ---
-> This is a Raspberry Pi–based project submitted in partial fulfilment of the course **ECE2011 - Raspberry Pi Using Python**, developed by **K Vamshidhar Reddy** and **Siddique Ali Khan** of the CS&E Department in Presidency University, Bangalore.
+This is a Raspberry Pi–based project submitted in partial fulfilment of the course **ECE2011 - Raspberry Pi Using Python**, developed by **[K Vamshidhar Reddy](https://github.com/Vamshi052004)** , **[Siddique Ali Khan](https://github.com/siddiquealikhan)**, **[Prashant M. Naik](https://github.com/prash-spartanx)** and **[Mohammed Anzal A](https://github.com/Anzal13)** of the CS&E Department in Presidency University, Bangalore.
 
 ![Last Commit](https://img.shields.io/github/last-commit/Vamshi052004/Facial-Emotion-Recognition)
 ---
